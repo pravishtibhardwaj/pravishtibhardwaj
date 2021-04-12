@@ -1,6 +1,6 @@
-- 👋 Hi, I’m pravishti bhardwaj
-- 👀 programming languages I know - c,c++
-- 👀 i am currently learning python
+- 👋 Hi, I’m Pravishti Bhardwaj
+- 👀 Programming languages I know - c,c++
+- 👀 I am currently learning python
 - 📫 How to reach me 
 bhard.pravi08@gmail.com
 
