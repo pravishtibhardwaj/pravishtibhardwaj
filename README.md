@@ -3,6 +3,7 @@
 - 👀 I am currently learning python
 - 📫 How to reach me 
 bhard.pravi08@gmail.com
+connect with me on hackerrank : https://www.hackerrank.com/bhard_pravi08
 
 
 
