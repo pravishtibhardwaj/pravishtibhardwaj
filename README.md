@@ -3,7 +3,7 @@
 - 👀 web developement- html , css
 - 📫 How to reach me 
 bhard.pravi08@gmail.com
--connect with me on hackerrank : https://www.hackerrank.com/bhard_pravi08
+-connect with me on linkedin : linkedin.com/in/pravishti-bhardwaj-7b4042200/
 
 
 
